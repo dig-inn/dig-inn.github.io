@@ -65,10 +65,9 @@
     },
     "pwa-switcher": false,
     "uniqCompNum": 4,
-    "versionPublish": "4.12.3",
+    "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "imageResize": false,
-    "canonical-url": false,
     "cookiesAlert": false
   },
   "pages": {
